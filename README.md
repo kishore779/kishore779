@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kishore P S</h1>
 <h3 align="center">A passionate Machine Learning engineer who is always curious to learn and explore new concepts.</h3>
-<p><img src = "https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt = "gif" width = "100x"/></p>
+<p><img align="center" src = "https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt = "gif" width = "50x" /></p>
 
 - 🔭 I’m currently working on Machine Learning Projects (End-to-End ML Pipelines) [🔗 https://github.com/kishore779](🔗 https://github.com/kishore779)
 
