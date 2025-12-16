@@ -2,11 +2,9 @@
 <h3 align="center">A passionate Machine Learning engineer who is always curious to learn and explore new concepts.</h3>
 <p><img align="center" src = "https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt = "gif" width = "400" /></p>
 
-- 🔭 I’m currently working on Machine Learning Projects (End-to-End ML Pipelines) [🔗 https://github.com/kishore779](🔗 https://github.com/kishore779)
+- 🔭 I’m currently working on Machine Learning Projects (End-to-End ML Pipelines) 
 
 - 🌱 I’m currently learning - Machine Learning, Data Science, Model Evaluation, Feature Engineering **Frameworks & Tools: NumPy, Pandas, Scikit-learn, Tenserflow, Pytorch, Yolo.**
-
-- 👯 I’m looking to collaborate on Open-source Machine Learning & Data Science projects [https://github.com/kishore779](https://github.com/kishore779)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kishore779](https://github.com/kishore779)
 
