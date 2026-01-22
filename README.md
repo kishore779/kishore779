@@ -53,7 +53,7 @@ Passionate about building intelligent systems, optimizing ML models, and explori
 
 ## 📂 Projects & Portfolio
 🔗 GitHub: https://github.com/kishore779  
-📄 Resume: https://drive.google.com/file/d/1Yc4FQD01vEu1I_IGfC6L8myP2-SwTGqQ/view
+📄 Resume: [https://drive.google.com/file/d/1Yc4FQD01vEu1I_IGfC6L8myP2-SwTGqQ/view](https://drive.google.com/file/d/1B0i8yqnAWuJBu-rhPQauQHyAe_4IwIYB/view?usp=drive_link)
 
 ---
 
