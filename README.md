@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, I'm Kishore P S!</h1>
+<h1 align="center"> Hello Broskies, I'm Kishore P S!</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="gif" width="400"/>
